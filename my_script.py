@@ -1,7 +1,6 @@
 import csv
-from pptx import Presentation
 import os
-
+from pptx import Presentation
 from pptx.enum.shapes import MSO_SHAPE_TYPE
 
 
